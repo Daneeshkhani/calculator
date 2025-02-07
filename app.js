@@ -5,7 +5,7 @@ function toDisplay(input){
 }
 
 function clearDisplay(){
-    display.value = "";
+    display.value = "0";
 }
 
 function calculate(){
